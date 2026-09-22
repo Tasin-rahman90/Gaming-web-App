@@ -39,7 +39,7 @@ Here is the folder structure of this app.
 
 <!--- FOLDER_STRUCTURE_START --->
 ```bash
-E-Commers-Web/
+e-commerce-web/
   |- public/
   |- src/
     |-- components/
@@ -67,6 +67,7 @@ E-Commers-Web/
   |- eslint.config.js
   |- index.html
   |- netlify.toml
+  |- package-lock.json
   |- package.json
   |- postcss.config.mjs
   |- tsconfig.app.json
