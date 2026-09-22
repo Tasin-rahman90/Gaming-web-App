@@ -145,7 +145,7 @@ export const Hero = () => {
         </div>
 
         <h1 className="special-font hero-heading text-blue-75 absolute right-5 bottom-5 z-40">
-          G<b>a</b>ming
+          E-<b>C</b>ommers
         </h1>
 
         <div className="absolute top-0 left-0 z-40 size-full">
@@ -155,8 +155,8 @@ export const Hero = () => {
             </h1>
 
             <p className="font-robert-regular mb-5 max-w-64 text-blue-100">
-              Enter the Metagame Layer <br />
-              Unleash the Play Economy
+              Premium digital shopping experiences <br />
+              crafted by Tasin Rahman
             </p>
 
             <Button
@@ -171,7 +171,7 @@ export const Hero = () => {
       </div>
 
       <h1 className="special-font hero-heading absolute right-5 bottom-5 text-black">
-        G<b>a</b>ming
+        E-<b>C</b>ommers
       </h1>
     </section>
   );

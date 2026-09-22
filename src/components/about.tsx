@@ -31,18 +31,21 @@ export const About = () => {
     <div id="about" className="min-h-screen w-screen">
       <div className="relative mt-36 mb-8 flex flex-col items-center gap-5">
         <p className="font-general text-sm uppercase md:text-[10px]">
-          Welcome to Zentry
+          Welcome to Tasin&apos;s E-Commerce Web
         </p>
 
         <AnimatedTitle containerClass="mt-5 !text-black text-center">
           {
-            "Disc<b>o</b>ver the world&apos;s l<b>a</b>rgest <br /> shared adventure"
+            "Buil<b>d</b>ing premium <br /> digital shopping experiences"
           }
         </AnimatedTitle>
 
         <div className="about-subtext">
-          <p>The Game of Games begins-your life, now an epic MMORPG</p>
-          <p>Zentry unites every player from countless games and platforms</p>
+          <p>Crafted by Tasin Rahman, Frontend Web Developer</p>
+          <p>Based in Dhaka, Bangladesh with 2 years of frontend experience</p>
+          <p>Available for freelance and full-time opportunities</p>
+          <p>HSC Candidate at Creative IT Institute</p>
+          <p>Focused on frontend development and learning Node.js for full-stack growth</p>
         </div>
       </div>
 

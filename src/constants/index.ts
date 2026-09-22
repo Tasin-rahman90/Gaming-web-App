@@ -1,5 +1,4 @@
-import { FaDiscord, FaTwitch, FaYoutube } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
+import { FaEnvelope, FaGithub } from "react-icons/fa";
 
 export const NAV_ITEMS = [
   { label: "TRAILER", href: "#hero" },
@@ -10,25 +9,19 @@ export const NAV_ITEMS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/game-website",
+  sourceCode: "https://github.com/Tasin-rahman90/E-Commers-Web",
+  email: "mailto:tasinrahman46427@gmail.com",
+  github: "https://github.com/Tasin-rahman90",
 } as const;
 
 export const SOCIAL_LINKS = [
   {
-    href: "https://discord.com",
-    icon: FaDiscord,
+    href: "https://github.com/Tasin-rahman90",
+    icon: FaGithub,
   },
   {
-    href: "https://x.com/_sanidhyy",
-    icon: FaXTwitter,
-  },
-  {
-    href: "https://youtube.com",
-    icon: FaYoutube,
-  },
-  {
-    href: "https://twitch.com",
-    icon: FaTwitch,
+    href: "mailto:tasinrahman46427@gmail.com",
+    icon: FaEnvelope,
   },
 ] as const;
 

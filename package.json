@@ -1,5 +1,5 @@
 {
-  "name": "game-website",
+  "name": "e-commerce-web",
   "private": true,
   "version": "1.0.1",
   "type": "module",
@@ -13,57 +13,34 @@
     "preview": "vite preview"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhyyy@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Tasin Rahman",
+    "email": "tasinrahman46427@gmail.com",
+    "url": "https://github.com/Tasin-rahman90"
   },
-  "description": "Modern UI/UX 3D Animated Gaming Website using React and GSAP",
+  "description": "Premium e-commerce website built with React, JavaScript, Tailwind CSS, and Vite",
   "keywords": [
-    "reactjs",
-    "netlify",
+    "e-commerce",
+    "frontend-developer",
     "react",
-    "modern-ui",
-    "modern-ux",
-    "portfolio",
-    "gsap",
-    "animated",
-    "animated-ui",
-    "game-website",
-    "gaming-website",
-    "postcss",
-    "prettier",
-    "tailwindcss",
-    "tailwindcss-animate",
-    "ui/ux",
-    "js",
     "javascript",
+    "tailwind-css",
+    "vite",
+    "web-development",
+    "portfolio",
     "typescript",
-    "eslint",
     "html",
-    "css",
-    "js",
-    "ts"
+    "css"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/game-website.git"
+    "url": "https://github.com/Tasin-rahman90/E-Commers-Web.git"
   },
-  "homepage": "https://github.com/sanidhyy/game-website#readme",
+  "homepage": "https://github.com/Tasin-rahman90/E-Commers-Web#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/game-website/issues",
-    "email": "sanidhyyy@gmail.com"
+    "url": "https://github.com/Tasin-rahman90/E-Commers-Web/issues",
+    "email": "tasinrahman46427@gmail.com"
   },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ],
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@tailwindcss/vite": "^4.1.18",

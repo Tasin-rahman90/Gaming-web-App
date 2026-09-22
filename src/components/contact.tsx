@@ -1,5 +1,3 @@
-import { Button } from "./button";
-
 interface ImageClipBoxProps {
   src: string;
   alt: string;
@@ -45,14 +43,19 @@ export const Contact = () => {
         </div>
 
         <div className="flex flex-col items-center text-center">
-          <p className="font-general text-[10px] uppercase">Join Zentry</p>
+          <p className="font-general text-[10px] uppercase">Let&apos;s work together</p>
 
           <p className="special-font font-zentry mt-10 w-full text-5xl leading-[0.9] md:text-[6rem]">
-            Let&apos;s b<b>u</b>ild the
-            <br /> new era of <br /> g<b>a</b>ming t<b>o</b>gether
+            Let&apos;s b<b>u</b>ild your
+            <br /> next digital <br /> exper<b>i</b>ence
           </p>
 
-          <Button containerClass="mt-10 cursor-pointer">Contact Us</Button>
+          <a
+            href="mailto:tasinrahman46427@gmail.com"
+            className="mt-10 inline-flex cursor-pointer items-center justify-center rounded-full bg-yellow-300 px-6 py-3 text-sm font-semibold uppercase text-black transition hover:bg-yellow-200"
+          >
+            Email Tasin
+          </a>
         </div>
       </div>
     </section>

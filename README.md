@@ -1,17 +1,11 @@
 <a name="readme-top"></a>
 
-# Nova - 3D Animated Gaming Website
+# Tasin | Frontend Web Developer
 
-![Nova - 3D Animated Gaming Website](/.github/images/img_main.png "Nova - 3D Animated Gaming Website")
+![Tasin E-Commerce Web](/.github/images/img_main.png "Tasin E-Commerce Web")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8e15a161-8615-4046-9869-4af8feb3c221/deploy-status)](https://nova-game.netlify.app/ "Netlify Status")
+[![GitHub profile](https://flat.badgen.net/badge/GitHub/Tasin--rahman90/black?icon=github)](https://github.com/Tasin-rahman90 "GitHub profile")
+[![Repository](https://flat.badgen.net/badge/Repository/E--Commers--Web/blue?icon=github)](https://github.com/Tasin-rahman90/E-Commers-Web "Repository")
 
 <!-- Table of Contents -->
 <details>
@@ -45,7 +39,7 @@ Here is the folder structure of this app.
 
 <!--- FOLDER_STRUCTURE_START --->
 ```bash
-game-website/
+E-Commers-Web/
   |- public/
   |- src/
     |-- components/
@@ -95,9 +89,8 @@ game-website/
 
 If you run into issues during installation or setup:
 
-- **GitHub Discussions** — [Open a Q&A discussion](https://github.com/sanidhyy/game-website/discussions/new?category=q-a) for setup and troubleshooting help.
-- **Email** — [sanidhyyy@gmail.com](mailto:sanidhyyy@gmail.com)
-- **Discord** — `@sanidhyy`
+- **GitHub** — [Tasin-rahman90](https://github.com/Tasin-rahman90)
+- **Email** — [tasinrahman46427@gmail.com](mailto:tasinrahman46427@gmail.com)
 
 ## :camera: Screenshots
 
@@ -115,7 +108,7 @@ If you run into issues during installation or setup:
 
 ## :wrench: Stats
 
-[![Stats for Nova](/.github/images/stats.svg "Stats for Nova")](https://pagespeed.web.dev/analysis?url=https://nova-game.netlify.app/ "Stats for Nova")
+[![Project preview](/.github/images/stats.svg "Tasin E-Commerce Web")]
 
 ## :raised_hands: Contribute
 
@@ -123,9 +116,9 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## :gem: Acknowledgements
 
-Useful resources and dependencies that are used in Nova.
+Useful resources and dependencies that are used in this e-commerce project.
 
-- The design and animations of this project were inspired by the Zentry.com website, which is an award-winning website recognized on [Awwwards.com](https://awwwards.com "Awwwards.com").
+- The design and animations of this project are tailored for a premium e-commerce experience.
 <!--- DEPENDENCIES_START --->
 - [@eslint/js](https://www.npmjs.com/package/@eslint/js): ^10.0.1
 - [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.2
@@ -159,12 +152,11 @@ Useful resources and dependencies that are used in Nova.
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+Funding links are not provided.
 
 ## :rocket: Follow Me
 
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2F_sanidhyy)](https://x.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fgame-website "Tweet about this project")
+[![Follow Me](https://img.shields.io/github/followers/Tasin-rahman90?style=social&label=Follow&maxAge=2592000)](https://github.com/Tasin-rahman90 "Follow Me")
 
 ## :books: Learn More
 
@@ -194,11 +186,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/game-website&Timeline">
+<a href="https://star-history.com/#Tasin-rahman90/E-Commers-Web&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/game-website&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/game-website&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/game-website&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Tasin-rahman90/E-Commers-Web&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Tasin-rahman90/E-Commers-Web&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Tasin-rahman90/E-Commers-Web&type=Timeline" />
 </picture>
 </a>
 
