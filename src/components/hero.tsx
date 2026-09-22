@@ -145,7 +145,7 @@ export const Hero = () => {
         </div>
 
         <h1 className="special-font hero-heading text-blue-75 absolute right-5 bottom-5 z-40">
-          E-<b>C</b>ommers
+          Digi<b>t</b>al
         </h1>
 
         <div className="absolute top-0 left-0 z-40 size-full">
@@ -155,7 +155,7 @@ export const Hero = () => {
             </h1>
 
             <p className="font-robert-regular mb-5 max-w-64 text-blue-100">
-              Premium digital shopping experiences <br />
+              Creative frontend experiences <br />
               crafted by Tasin Rahman
             </p>
 
@@ -164,14 +164,14 @@ export const Hero = () => {
               leftIcon={TiLocationArrow}
               containerClass="bg-yellow-300 flex-center gap-1"
             >
-              Watch Trailer
+              Explore Work
             </Button>
           </div>
         </div>
       </div>
 
       <h1 className="special-font hero-heading absolute right-5 bottom-5 text-black">
-        E-<b>C</b>ommers
+        Digi<b>t</b>al
       </h1>
     </section>
   );
