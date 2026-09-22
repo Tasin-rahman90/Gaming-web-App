@@ -121,7 +121,7 @@ Useful resources and dependencies that are used in this e-commerce project.
 
 - The design and animations of this project are tailored for a premium e-commerce experience.
 <!--- DEPENDENCIES_START --->
-- [@eslint/js](https://www.npmjs.com/package/@eslint/js): ^10.0.1
+- [@eslint/js](https://www.npmjs.com/package/@eslint/js): ^9.39.5
 - [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.2
 - [@tailwindcss/postcss](https://www.npmjs.com/package/@tailwindcss/postcss): ^4.1.18
 - [@tailwindcss/vite](https://www.npmjs.com/package/@tailwindcss/vite): ^4.1.18
@@ -130,7 +130,7 @@ Useful resources and dependencies that are used in this e-commerce project.
 - [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^6.0.1
 - [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.24
 - [clsx](https://www.npmjs.com/package/clsx): ^2.1.1
-- [eslint](https://www.npmjs.com/package/eslint): ^10.0.0
+- [eslint](https://www.npmjs.com/package/eslint): ^9.39.5
 - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.37.2
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^7.0.1
 - [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.0
@@ -145,7 +145,7 @@ Useful resources and dependencies that are used in this e-commerce project.
 - [react-use](https://www.npmjs.com/package/react-use): ^17.5.1
 - [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^3.4.0
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^4.1.18
-- [typescript](https://www.npmjs.com/package/typescript): ~7.0.2
+- [typescript](https://www.npmjs.com/package/typescript): ~6.0.3
 - [typescript-eslint](https://www.npmjs.com/package/typescript-eslint): ^8.54.0
 - [vite](https://www.npmjs.com/package/vite): ^8.0.0
 
